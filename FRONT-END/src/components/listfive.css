@@ -1,0 +1,34 @@
+.browse-t{
+    display: grid;
+    align-items: center;
+    margin-top: 3rem;
+   color: aliceblue;
+}
+.bro{
+    background-color: rgb(58, 57, 57);
+    padding-bottom: 6rem;
+}
+.mela{
+    margin-top:1rem;
+}
+.mela-two{
+    margin-top: 33.5rem;
+}
+.mela-three{
+    margin-top: 65.4rem;
+}
+.mela-four{
+    margin-top: 97.5rem;
+}
+.mela-five{
+    margin-top: 129.5rem;
+}
+.mela-six{
+    margin-top: 161.5rem;
+}
+.mela-seven{
+    margin-top: 193.5rem;
+}
+.mela-eight{
+    margin-top: 225.5rem;
+}

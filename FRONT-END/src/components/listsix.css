@@ -1,0 +1,34 @@
+.browse-t{
+    display: grid;
+    align-items: center;
+    margin-top: 3rem;
+   color: aliceblue;
+}
+.bro{
+    background-color: rgb(58, 57, 57);
+    padding-bottom: 6rem;
+}
+.ayya{
+    margin-top:1.5rem;
+}
+.ayya-two{
+    margin-top: 33.5rem;
+}
+.ayya-three{
+    margin-top: 65.4rem;
+}
+.ayya-four{
+    margin-top: 97.5rem;
+}
+.ayya-five{
+    margin-top: 129.5rem;
+}
+.ayya-six{
+    margin-top: 161.5rem;
+}
+.ayya-seven{
+    margin-top: 193.5rem;
+}
+.ayya-eight{
+    margin-top: 225.5rem;
+}

@@ -1,0 +1,31 @@
+.browse-t{
+    display: grid;
+    align-items: center;
+    margin-top: 3rem;
+   color: aliceblue;
+}
+.bro{
+    background-color: rgb(58, 57, 57);
+    padding-bottom: 6rem;
+}
+.nest{
+    margin-top:1.5rem;
+}
+.nest-two{
+    margin-top: 33.5rem;
+}
+.nest-three{
+    margin-top: 65.4rem;
+}
+.nest-four{
+    margin-top: 97.5rem;
+}
+.nest-five{
+    margin-top: 129.5rem;
+}
+.nest-six{
+    margin-top: 161.5rem;
+}
+.nest-seven{
+    margin-top: 193.5rem;
+}
